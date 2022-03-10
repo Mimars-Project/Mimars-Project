@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mimars-Project
 - 👀 I’m interested in Video Games and Open Source
-- 🌱 I’m currently learning C++ and Java Swing
-- 💞️ I’m looking to collaborate on anything
+- 🌱 I’m currently learning software development using front-end frameworks
 - 📫 How to reach me: here
 
 <!---

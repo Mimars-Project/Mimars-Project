@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mimars-Project
+- 👋 Hi, I’m Vincent Feng
 - 👀 I’m interested in Video Games and Open Source
 - 🌱 I’m currently learning software development using front-end frameworks such as React
 - 📫 How to reach me: here

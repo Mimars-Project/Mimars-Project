@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mimars-Project
 - 👀 I’m interested in Video Games and Open Source
-- 🌱 I’m currently learning software development using front-end frameworks
+- 🌱 I’m currently learning software development using front-end frameworks such as React
 - 📫 How to reach me: here
 
 <!---
